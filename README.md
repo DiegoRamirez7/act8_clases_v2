@@ -16,7 +16,8 @@
 # clase datos
 
 -codigo
--![image](https://github.com/user-attachments/assets/923e95c1-1ef0-453b-a49e-0e40787746b5)
+-![image](https://github.com/user-attachments/assets/a333c794-45c4-4f5a-b026-b3a459c89b9e)
+
 
 -resultado
 
